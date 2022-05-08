@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dsjerry
-- 👀 I’m interested in ... 🏃‍♂️�🏀🎮🎧📚
-- 🌱 I’m currently learning ... vue，react and numerous things
+- 👀 I’m interested in ... 🏃‍♂️🏀🎮🎧📚
+- 🌱 I’m currently learning ... vue，react, typescript and numerous things
 - 💞️ I’m looking to collaborate on ... the earth
 - 📫 How to reach me ... dsjerry@qq.com
 
