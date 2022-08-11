@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dsjerry
 - 👀 I’m interested in ... 🏃‍♂️🏀🎮🎧📚
 - 🌱 I’m currently learning ... vue，react, typescript and numerous things
-- 💞️ I’m looking to collaborate on ... the earth
-- 📫 How to reach me ... dsjerry@qq.com
+- 💞️ I’m looking to collaborate on ... the Earth, Mars also...if I can fly...
+- 📫 How to reach me ... dsjerry@qq.com ... or see my blog but unfortunate no useful knowledge there.🙃
 
 <!---
 dsjerry/dsjerry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
